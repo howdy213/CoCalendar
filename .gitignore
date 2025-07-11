@@ -1,0 +1,7 @@
+# Build and Release Folders
+x64/
+Calendar/
+.vs/
+
+# Other files and folders
+Calendar.vcxproj.user
